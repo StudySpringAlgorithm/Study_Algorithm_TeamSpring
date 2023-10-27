@@ -4,19 +4,16 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		int answer1 = 12;
+		int answer1 = 12345;
 		System.out.println(solution1(answer1));
 
-		int answer2 = 2;
+		int answer2 = 12345;
 		System.out.println(solution2(answer2));
 
 		long answer3 = 12345;
-
 		for (int i = 0; i < solution3(answer3).length; i++){
 			System.out.printf("%d", solution3(answer3)[i]);
 		}
-
-
 	}
 
 	public static int solution1(int n) {
@@ -56,10 +53,8 @@ public class Main {
 				answer[i] = (int)n;
 			n /= 10;
 		}
-
 		return answer;
 	}
-
 }
 
 
