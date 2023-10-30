@@ -18,6 +18,7 @@
 5. 각자 풀이한 코드는 본인 폴더에 작성한다.
 
 ## 💯진행상황
-|회차|문제|발표자|
-|-|-|-|
-|1회차(2023.10.30)|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|문정현|
+| 회차              | 문제                                                                                                                                                                                                                                      | 발표자 |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 1회차(2023.10.30) | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | 문정현 |
+| 2회차(2023.10.31) | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871), [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963), [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)         | 창다은 |
