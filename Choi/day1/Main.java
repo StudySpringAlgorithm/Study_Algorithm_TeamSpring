@@ -10,7 +10,7 @@ public class Main {
 		int answer2 = 12345;
 		System.out.println(solution2(answer2));
 
-		long answer3 = 12345;
+		long answer3 = 12345L;
 		for (int i = 0; i < solution3(answer3).length; i++){
 			System.out.printf("%d", solution3(answer3)[i]);
 		}
