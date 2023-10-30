@@ -13,3 +13,13 @@ public class arrAverage {
         return answer;
     }
 }
+
+/* 스트림을 사용 해서 한줄로 나타낼 수 있다. 대신 매우 느리다..알고 리즘 에서는
+
+class Solution {
+    public double solution(int[] arr) {
+
+        return Arrays.stream(arr).average().getAsDouble();
+    }
+}
+ */
