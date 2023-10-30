@@ -10,7 +10,6 @@ public class average {
         for (int i = 0; i < arr.length; i++){
             answer += arr[i];
         }
-        answer = answer / arr.length;
-        return answer;
+        return answer / arr.length;
     }
 }
