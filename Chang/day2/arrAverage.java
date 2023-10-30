@@ -14,7 +14,7 @@ public class arrAverage {
     }
 }
 
-/* 스트림을 사용 해서 한줄로 나타낼 수 있다. 대신 매우 느리다..알고 리즘 에서는
+/* 스트림을 사용 해서 한줄로 나타낼 수 있다. 대신 3배정도 느리다. 알고 리즘 에서는 최대한 안쓰는 방향으로..
 
 class Solution {
     public double solution(int[] arr) {
