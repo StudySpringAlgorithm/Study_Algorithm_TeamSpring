@@ -1,4 +1,4 @@
-package day1;
+package Chang.day1;
 
 public class EvenOdd {
 
