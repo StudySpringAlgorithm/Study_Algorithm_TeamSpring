@@ -1,44 +1,35 @@
 public class solutions {
 
-	// 문자열을 정수로 바꾸기
-	public int solution1(String s) {
-		int answer;
-		answer = Integer.parseInt(s);
+	// x만큼 간격이 있는 n개의 숫자
+	// 1030
+	public long[] solution1(int x, int n) {
+
+		long[] answer = new long[n];
+		for (long i = 0; i < n; i++)
+			answer[(int)i] = (x * (i + 1));
 		return answer;
 	}
 
-	// 문자열을 정수로 바꾸기 ver.2
-	public int solution1_1(String s) {
-		int answer = 0;
-		boolean flag = false;
+	// 평균 구하기
+	// 1030
+	public double solution2(int[] arr) {
+		double answer = 0;
+		for(int i : arr)
+			answer += i;
+		return answer / arr.length;
+	}
 
+	// p와 y의 개수
+	// 1030
+	public static boolean solution5(String s) {
+		int pH = 0;
 		for (int i = 0; i < s.length(); i++) {
-			if (s.charAt(i) == '+')
-				continue;
-			else if (s.charAt(i) == '-') {
-				flag = true;
-				continue;
-			}
-			answer = answer * 10 + s.charAt(i) - 48;
+			if (s.charAt(i) == 'p' || s.charAt(i) == 'P')
+				pH++;
+			else if (s.charAt(i) == 'y' || s.charAt(i) == 'Y')
+				pH--;
 		}
-		return flag ? answer * -1 : answer;
-	}
-
-	// 나머지가 1이 되는 수 찾기
-	public int solution3(int n) {
-		int answer = 1;
-		while (answer++ < n) { if (n % answer == 1) return answer; }
-		return answer;
-	}
-
-	// 자릿수 더하기
-	public int solution6(int n) {
-		int answer = 0;
-		while (n > 0) {
-			answer += n % 10;
-			n /= 10;
-		}
-		return answer;
+		return (pH == 0) ? true : false;
 	}
 
   
