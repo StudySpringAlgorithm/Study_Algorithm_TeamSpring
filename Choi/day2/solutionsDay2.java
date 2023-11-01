@@ -1,4 +1,4 @@
-public class solutions {
+public class solutionsDay2 {
 
 	// x만큼 간격이 있는 n개의 숫자
 	// 1030
@@ -35,3 +35,5 @@ public class solutions {
   
 
 }
+
+

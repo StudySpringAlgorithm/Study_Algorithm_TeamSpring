@@ -1,10 +1,10 @@
-public class solutions {
+public class solutionsDay3 {
 
 	// 문자열을 정수로 바꾸기
 	public int solution1(String s) {
 		int answer;
 		answer = Integer.parseInt(s);
-		return answer;
+		return Integer.parseInt(s);
 	}
 
 	// 문자열을 정수로 바꾸기 ver.2

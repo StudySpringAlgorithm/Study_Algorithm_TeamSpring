@@ -1,20 +1,6 @@
-package Chang.day1;
+public class solutionsDay1 {
 
-public class Main {
-
-	public static void main(String[] args) {
-
-		int answer1 = 12345;
-		System.out.println(solution1(answer1));
-
-		int answer2 = 12345;
-		System.out.println(solution2(answer2));
-
-		long answer3 = 12345L;
-		for (int i = 0; i < solution3(answer3).length; i++){
-			System.out.printf("%d", solution3(answer3)[i]);
-		}
-	}
+	
 
 	public static int solution1(int n) {
 
