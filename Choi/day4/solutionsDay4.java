@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class solutionsDay4 {
 
 	// 제곱근 판별
