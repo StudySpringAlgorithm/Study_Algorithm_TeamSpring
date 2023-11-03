@@ -15,14 +15,14 @@ public class solutionsDay4 {
 				answer += a++;
 			return answer;
 		}
-		return a;
+		return answer;
 	}
 
 	// 콜라츠 추측
 	//1106
 	public static int solution11(int num) {
 
-		long tmp = num; // 오버플로우
+		long tmp = num; // 오버플로우 대비
 
 		for (int i = 0; i < 500; i++) {
 			if (tmp == 1)
@@ -30,7 +30,7 @@ public class solutionsDay4 {
 			else if ((tmp % 2) == 0)
 				tmp /= 2;
 			else
-				tmp = tmp * 3 + 1;
+				tmp = tmp * 3 + 1; // 오버플로우 발생가능
 		}
 
 		return -1;
@@ -44,7 +44,7 @@ public class solutionsDay4 {
 			if (seoul[i].equals("Kim"))
 				return ("김서방은 " + i + "에 있다");
 		}
-		return "여기 없나본데?";
+		return "여기 없나본데?"; // 없을리가 없음
 	}
 
 }
