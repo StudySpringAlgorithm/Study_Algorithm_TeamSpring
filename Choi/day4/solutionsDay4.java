@@ -34,7 +34,7 @@ public class solutionsDay4 {
 
 		long sortTmp = 0;
 
-		for (int i = 0; i < lengthNum; i++) { // 선택정렬
+		for (int i = 0; i < lengthNum; i++) {
 			for (int j = 0; j < lengthNum -1; j++) {
 				if (answerArray[i] > answerArray[j]) {
 					sortTmp = answerArray[i];
