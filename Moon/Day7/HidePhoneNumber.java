@@ -1,4 +1,4 @@
-package Day6;
+package Day7;
 
 public class HidePhoneNumber {
     public static void main(String[] args) {
