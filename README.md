@@ -20,8 +20,6 @@
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 
-<details> <sumarry>1 ~ 10회차</sumarry><div>
-
 | 1회차(2023.10.30)  | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)            | 문정현 |
 | 2회차(2023.10.31)  | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944), [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954), [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | 창다은 |
 | 3회차(2023.11.01)  | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925), [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389), [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)    | 김환희 |
@@ -32,7 +30,4 @@
 | 8회차(2023.11.09)  | [수박](https://school.programmers.co.kr/learn/courses/30/lessons/12922), [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128), [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)                        | 창다은 |
 | 9회차(2023.11.10)  | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917), [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612), [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  | 문정현 |
 | 10회차(2023.11.13) | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950), [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969), [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)            | 창다은 |
-
-</div></details>
-
 | 11회차(2023.11.14)  | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906), [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935), [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                        | 김환희 |
