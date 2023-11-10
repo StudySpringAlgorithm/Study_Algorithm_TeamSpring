@@ -19,7 +19,6 @@
 ## 💯진행상황
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-
 | 1회차(2023.10.30)  | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)            | 문정현 |
 | 2회차(2023.10.31)  | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944), [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954), [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | 창다은 |
 | 3회차(2023.11.01)  | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925), [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389), [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)    | 김환희 |
