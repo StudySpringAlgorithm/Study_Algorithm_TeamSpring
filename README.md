@@ -17,6 +17,12 @@
 5. 각자 풀이한 코드는 본인 폴더에 작성한다.
 
 ## 💯진행상황
+
+<details>
+<summary> 1 - 10 회차 </summary>
+    
+<div markdown="1">
+    
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | 1회차(2023.10.30)  | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)            | 문정현 |
@@ -29,4 +35,10 @@
 | 8회차(2023.11.09)  | [수박](https://school.programmers.co.kr/learn/courses/30/lessons/12922), [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128), [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)                        | 창다은 |
 | 9회차(2023.11.10)  | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917), [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612), [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  | 문정현 |
 | 10회차(2023.11.13) | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950), [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969), [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)            | 창다은 |
+
+</div>
+</details>
+
+| 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | 11회차(2023.11.14)  | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906), [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935), [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                        | 김환희 |
