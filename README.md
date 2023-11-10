@@ -20,6 +20,7 @@
 
 <details>
 <sumarry> 1 - 10 회차 </sumarry>
+    
 <div> 
     
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
