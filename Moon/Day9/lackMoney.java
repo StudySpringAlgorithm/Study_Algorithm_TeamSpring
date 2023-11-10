@@ -24,7 +24,8 @@ public class lackMoney {
             money -= price * i;
         }
         if (money < 0) {
-            return Math.abs(money);
+//            return Math.abs(money);
+            return -money;
         }
 
         return 0;
