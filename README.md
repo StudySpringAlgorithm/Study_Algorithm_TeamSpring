@@ -19,7 +19,7 @@
 ## 💯진행상황
 
 <details>
-<sumarry> 1 - 10 회차 </sumarry>
+<summary> 1 - 10 회차 </summary>
     
 <div markdown="1">
     
