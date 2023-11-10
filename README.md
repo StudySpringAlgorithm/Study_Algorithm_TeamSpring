@@ -41,4 +41,4 @@
 
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 11회차(2023.11.14)  | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930), , [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705), [크기가 작은 부분](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                        | 김환희 |
+| 11회차(2023.11.14)  | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930), [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705), [크기가 작은 부분](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                        | 김환희 |
