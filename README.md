@@ -39,6 +39,9 @@
 </div>
 </details>
 
-| 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 11회차(2023.11.14)  | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930), [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705), [크기가 작은 부분](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                        | 김환희 |
+| 회차               | 문제                                                                                                                                                                                                                                    | 발표자 |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 11회차(2023.11.14) | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930), [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705), [크기가 작은 부분](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | 김환희 |
+| 12회차(2023.11.15) | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491), [시저암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926), [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)   | 최혁  |
+| 13회차(2023.11.16) | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915), [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748), [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)   | 문정현 |
+
