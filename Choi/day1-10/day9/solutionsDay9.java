@@ -1,42 +1,48 @@
-public class solutionsDay9 {
-
-	//수박
-	//1109
-	public static String solution19(int n) {
-
-		String answer = "";
-
-
-
-		for (int i = 0; i < n; i++)
-			answer += (i % 2 == 0) ? "수" : "박";
-
-		return answer;
-	}
-
-	//내적
-	//1109
-	public int solution20(int[] a, int[] b) {
-
-		int answer = 0;
-		for (int i = 0; i < a.length; i++)
-			answer += a[i] * b[i];
-		return answer;
-	}
-
-
-	//약수의 개수와 덧셈
-	//1109
-	public static int solution21(int left, int right) {
-		int answer = 0;
-
-		for(int i = left; i <= right; i++) {
-			if ((int)Math.sqrt(i) * (int)Math.sqrt(i) == i)
-				answer -= i;
-			else
-				answer += i;
-		}
-		return answer;
-	}
-
-}
+//public class solutionsDay9 {
+//
+//	// 문자열 내림차순으로 배치하기
+//	public String solution(String s) {
+//		String answer = "";
+//		char[] tmp = s.toCharArray();
+//		Arrays.sort(tmp);
+//		for (int i = s.length() - 1; 0 <= i; i--)
+//			answer = answer + tmp[i];
+//		return answer;
+//	}
+//
+//	// 문자열 내림차순으로 배치하기 2
+//	public String solution(String s) {
+//		char[] tmp = s.toCharArray();
+//		Arrays.sort(tmp);
+//		return new StringBuilder(new String (tmp)).reverse().toString();
+//	}
+//
+//	//부족한 금액 계산하기
+//	public long solution(int price, int money, int count) {
+//
+//		long answer = money * -1;
+//		//(count * (count + 1) / 2
+//		for (int i = 0; i < count; i++)
+//			answer += (long)price * (i + 1);
+//
+//		return answer > 0 ? answer : 0;
+//	}
+//
+//	public boolean solution(String s) {
+//
+//		char[] tmpArray = s.toCharArray();
+//
+//		if (s.length() != 4 && s.length() != 6) {
+//			return false;
+//		}
+//
+//		for (int i : tmpArray) {
+//			if (!('0' <= i && i <= '9')) {
+//				return false;
+//			}
+//		}
+//
+//		return true;
+//	}
+//
+//}
