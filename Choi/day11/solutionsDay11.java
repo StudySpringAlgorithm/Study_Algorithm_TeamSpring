@@ -60,6 +60,7 @@ public class solutionsDay11 {
 
 		return answer;
 	}
+
 }
 
 
