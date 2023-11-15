@@ -1,86 +1,95 @@
 public class solutionsDay14 {
+//	//두개 뽑아서 더하기
+//	public int[] solution48(int[] numbers) {
+//		Set<Integer> answer = new HashSet<>();
 //
-//	// 최소직사각형
-//	//1115
-//	public int solution41(int[][] sizes) {
-//		int x = 0;
-//		int y = 0;
-//
-//		for (int[] i : sizes) {
-//			Arrays.sort(i);
-//			if (i[0] > x)
-//				x = i[0];
-//			if (i[1] > y)
-//				y = i[1];
+//		for (int i = 0; i < numbers.length - 1; i++) {
+//			for (int j = i + 1; j < numbers.length; j++)
+//				answer.add(numbers[i] + numbers[j]);
 //		}
 //
-//		return x * y;
+//		return answer.stream().sorted().mapToInt(i -> i).toArray();
 //	}
 //
-//	//시저암호
-//	//1115
-//	public static String solution42(String s, int n) {
+//	// 가장 가까운 글자
+//	public int[] solution49(String s) {
+//		int[] answer = new int[s.length()];
 //		char[] tmpS = s.toCharArray();
-//		StringBuilder answer = new StringBuilder();
 //
-//		for (char c : tmpS)
-//			answer.append(ceasar(c,n));
+//		Map<Character, Integer> words = new HashMap<>();
 //
-//		return answer.toString();
-//	}
-//
-//	public static char ceasar(char c, int n) {
-//		if ('a' <= c && c <= 'z') {
-//			c += n;
-//			if (c > 'z')
-//				c -= 26;
-//		} else if ('A' <= c && c <= 'Z') {
-//			c += n;
-//			if (c > 'Z')
-//				c -= 26;
+//		for (int i = 0; i < tmpS.length; i++) {
+//			if (words.containsKey(tmpS[i]))
+//				answer[i] = i - words.get(tmpS[i]);
+//			else
+//				answer[i] = -1;
+//			words.put(tmpS[i], i);
 //		}
-//		return c;
-//	}
 //
-//	//숫자 문자열과 영단어
-//	//1115
-//	public int solution43(String s) {
-//		int answer = 0;
-//		int[] arrayTmp = new int[2];
-//
-//		while (!s.isEmpty()) {
-//			answer *= 10;
-//
-//			if (!('0' <= s.charAt(0) && s.charAt(0) <= '9')) {
-//				arrayTmp = stringToNumber(s);
-//				answer += arrayTmp[0];
-//				s = s.substring(arrayTmp[1]);
-//			} else {
-//				answer += s.charAt(0) - '0';
-//				s = s.substring(1);
-//			}
-//		}
 //		return answer;
 //	}
 //
-//	public int[] stringToNumber(String s) {
-//		String[] numberString = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-//		int i;
-//		int j = 0;
+//	//푸드 파이트 대회
+////	public String solution50(int[] food) {
+////		List<Integer> foodList = new ArrayList<>();
+////		int[] kcal = new int[food.length - 1];
+////
+////		for (int i = 1; i < food.length; i++)
+////			kcal[i - 1] = food[i] / 2;
+////
+//////		int heavy= 1;
+//////
+//////		for (int k : kcal) {
+//////			for (int j = 0; j < k; j++)
+//////				foodList.add(heavy);
+//////			heavy++;
+//////		}
+////
+////		for (int i = 0; i < kcal.length; i++) {
+////			for (int j = 0; j < kcal[i]; j++)
+////				foodList.add(i + 1);
+////		}
+////
+////		foodList.add(0);
+////
+////		for (int i = foodList.size() - 2; i >= 0; i--)
+////			foodList.add(foodList.get(i));
+////
+////		return foodList.stream().map(String::valueOf).collect(Collectors.joining());
+////	}
+//	//푸드 파이트 대회
+//	public String solution50(int[] food) {
+//		StringBuilder foodTable = new StringBuilder();
 //
-//		for (i = 0; i < numberString.length; i++) {
-//			if (s.startsWith(numberString[i]))
-//				break;
+//		for (int i = 1; i < food.length; i++) {
+//			for (int j = 0; j < food[i] / 2; j++)
+//				foodTable.append(i);
+//		}
+////		for (int i = 1; i < food.length; i++)
+////			foodTable.append(String.valueOf(i).repeat(Math.max(0, food[i] / 2)));
+//
+//		foodTable.append("0");
+//
+//		for (int i = food.length - 1; i > 0; i--) {
+//			for (int j = 0; j < food[i] / 2; j++)
+//				foodTable.append(i);
 //		}
 //
-//		j = switch (i) {
-//			case 0, 4, 5, 9 -> 4;
-//			case 1, 2, 6 -> 3;
-//			case 3, 7, 8 -> 5;
-//			default -> j;
-//		};
+//		return foodTable.toString();
+//	}
 //
-//		return new int[] {i, j};
+//	//콜라 문제
+//	public static int solution51(int a, int b, int n) {
+//		int answer = 0;
+//		int remainder;
+//
+//		while ( n >= a ) {
+//			answer += n / a * b;
+//			remainder = n % a;
+//			n = n / a * b + remainder;
+//		}
+//
+//		return answer;
 //	}
 
 }
