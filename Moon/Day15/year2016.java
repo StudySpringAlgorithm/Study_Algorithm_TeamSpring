@@ -5,16 +5,12 @@ import java.time.LocalDate;
 
 public class year2016 {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 24;
 
+    }
+
+    private static String solution(int a, int b) {
         LocalDate date = LocalDate.of(2016, a, b);
-        System.out.println(date);
-
         DayOfWeek dayOfWeek = date.getDayOfWeek();
-        System.out.println(dayOfWeek);
-        String answer = dayOfWeek.toString().substring(0,3);
-        System.out.println(answer);
-
+        return dayOfWeek.toString().substring(0,3);
     }
 }
