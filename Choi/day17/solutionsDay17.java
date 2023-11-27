@@ -29,7 +29,9 @@ public class solutionsDay17 {
 		int knightPower;
 
 		for (int i = 1; i <= number; i++) {
+
 			knightPower = div(i);
+
 			if (knightPower > limit)
 				answer += power;
 			else
