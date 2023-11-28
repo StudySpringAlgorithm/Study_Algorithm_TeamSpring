@@ -54,8 +54,8 @@
 | 16회차(2023.11.22) | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808), [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840), [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)   | 최혁  |
 | 17회차(2023.11.23) | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989), [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798), [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)   | 문정현 |
 | 18회차(2023.11.24) | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499), [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128), [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)   | 최혁 |
-| 19회차(2023.11.28) | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108), [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586), [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)   | 창다은 |
-| 20회차(2023.11.29) | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502), [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666), [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)   | 문정현 |
+| 19회차(2023.11.28) | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108), [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586), [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)   | 문정현 |
+| 20회차(2023.11.29) | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502), [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666), [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)   | 창다은 |
 
 </div>
 </details>
