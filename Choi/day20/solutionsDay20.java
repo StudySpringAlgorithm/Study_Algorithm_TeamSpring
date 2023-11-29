@@ -1,4 +1,4 @@
-public class solutionsDay19 {
+public class solutionsDay20 {
 
 
 	// 햄버거
