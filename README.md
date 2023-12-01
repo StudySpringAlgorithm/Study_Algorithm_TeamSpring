@@ -63,7 +63,7 @@
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | 21회차(2023.11.30)  | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=java), [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)            | 정유감 |
-| 22회차(2023.12.01)  | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334), [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)            | 창다은 |
+| 22회차(2023.12.01)  | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334), [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)            | 최　혁 |
 | 23회차(2023.12.04)  | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)            | 문정현 |
 | 24회차(2023.12.05)  | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945), [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)            | 최　혁 |
 | 25회차(2023.12.06)  | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)            | 창다은 |
