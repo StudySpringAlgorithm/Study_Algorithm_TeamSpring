@@ -67,4 +67,4 @@
 | 23회차(2023.12.04)  | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)            | 문정현 |
 | 24회차(2023.12.05)  | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945), [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)            | 최　혁 |
 | 25회차(2023.12.06)  | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)            | 창다은 |
-| 25회차(2023.12.07)  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928), [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)            | 문정현 |
+| 26회차(2023.12.07)  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928), [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)            | 문정현 |
