@@ -60,11 +60,31 @@
 </div>
 </details>
 
+<details>
+<summary> 21 - 30 회차 </summary>
+    
+<div markdown="1">
+    
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | 21회차(2023.11.30)  | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=java), [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)            | 정유감 |
-| 22회차(2023.12.01)  | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334), [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/172928)            | 창다은 |
+| 22회차(2023.12.01)  | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334), [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)            | 최　혁 |
 | 23회차(2023.12.04)  | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)            | 문정현 |
 | 24회차(2023.12.05)  | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945), [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)            | 최　혁 |
-| 25회차(2023.12.06)  | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)            | 창다은 |
-| 25회차(2023.12.07)  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928), [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)            | 문정현 |
+| 25회차(2023.12.06)  | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)            | 창다은 | 
+| 26회차(2023.12.07)  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928), [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)            | 문정현👈 |
+| 27회차(2023.12.08)  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)            | 최　혁 |
+| 28회차(2023.12.11)  | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701), [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)            | 창다은 |
+| 29회차(2023.12.12)  | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390), [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)            | 문정현 |
+| 30회차(2023.12.13)  | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127), [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            | 최　혁 |
+
+</div>
+</details>
+
+| 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 31회차(2023.12.14)  | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586), [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)            | 창다은 |
+| 32회차(2023.12.15)  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946), [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)            | 문정현 |
+
+
+
