@@ -74,8 +74,8 @@
 | 25회차(2023.12.06)  | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)            | 창다은 | 
 | 26회차(2023.12.07)  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928), [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)            | 문정현 |
 | 27회차(2023.12.08)  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)            | 최　혁 |
-| 28회차(2023.12.12)  | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701), [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)            | 창다은👈 |
-| 29회차(2023.12.13)  | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390), [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)            | 문정현 |
+| 28회차(2023.12.12)  | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701), [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)            | 창다은 |
+| 29회차(2023.12.13)  | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390), [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)            | 문정현👈 |
 | 30회차(2023.12.15)  | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127), [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            | 최　혁 |
 
 </div>
