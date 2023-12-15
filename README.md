@@ -61,7 +61,7 @@
 </details>
 
 
-<summary> 21 - 30 회차 </summary>
+
 
     
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
