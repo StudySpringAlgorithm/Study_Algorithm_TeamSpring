@@ -86,7 +86,16 @@
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | 31회차(2023.12.18)  | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586), [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)            | 창다은 |
-| 32회차(2023.12.19)  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946), [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)            | 문정현👈 |
+| 32회차(2023.12.19)  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946), [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)            | 문정현 |
+| 33회차(2023.12.04)  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839), [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)            | 문정현👈 |
+| 34회차(2023.12.05)  | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512), [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)            | 최　혁 |
+
+| 35회차(2023.12.06)  | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162), []()            | 창다은 | 
+| 36회차(2023.12.07)  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163), []()            | 문정현 |
+| 37회차(2023.12.08)  | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694), []()            | 최　혁 |
+| 38회차(2023.12.12)  | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164), []()            | 창다은 |
+| 39회차(2023.12.13)  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021), []()            | 문정현 |
+| 40회차(2023.12.15)  | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895), []()            | 최　혁 |
 
 
 
