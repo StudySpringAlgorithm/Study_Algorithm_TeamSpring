@@ -6,7 +6,7 @@ public class parkWalk {
         String[] park = new String[]{"OSO","OOO","OXO","OOO"};
         ///   0 1 2
         /// 0 S O O
-        /// 1 0 O O
+        /// 1 0 X s1
         /// 2 0 O O
 
         String[] routes = new String[]{"E 2","S 3","W 1"}; // 2 1
@@ -60,6 +60,7 @@ public class parkWalk {
         if (moveY < 0 || moveY >= park.length) {
             return false;
         }
+
         if (direction.equals("W") || direction.equals("E")) {
             for (int i = Math.min(location[1], moveX); i <= Math.max(location[1], moveX); i++) {
                 if (park[moveY].charAt(i) == 'X') {
