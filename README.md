@@ -7,7 +7,7 @@
 
 ## 🎈진행규칙
 1. 시간 : 8:30 ~ 09:00
-2. 장소 : 게더타운
+2. 장소 : zep
 3. 발표자 및 일정
     1. 문정현
     2. 창다은
@@ -61,7 +61,10 @@
 </details>
 
 
-
+<details>
+<summary> 21 - 30 회차 </summary>
+    
+<div markdown="1">
 
     
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
@@ -75,9 +78,10 @@
 | 27회차(2023.12.08)  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)            | 최　혁 |
 | 28회차(2023.12.12)  | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701), [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)            | 창다은 |
 | 29회차(2023.12.13)  | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390), [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)            | 문정현 |
-| 30회차(2023.12.15)  | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127), [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            | 최　혁👈 |
+| 30회차(2023.12.15)  | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127), [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            | 최　혁 |
 
-
+</div>
+</details>
 
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
