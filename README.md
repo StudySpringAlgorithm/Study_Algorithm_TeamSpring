@@ -85,8 +85,8 @@
 
 | 회차               | 문제                                                                                                                                                                                                                                                 | 발표자 |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 31회차(2023.12.18)  | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586), [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)            | 창다은👈 |
-| 32회차(2023.12.19)  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946), [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)            | 문정현 |
+| 31회차(2023.12.18)  | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586), [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)            | 창다은 |
+| 32회차(2023.12.19)  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946), [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)            | 문정현👈 |
 
 
 
