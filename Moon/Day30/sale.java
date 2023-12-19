@@ -35,7 +35,7 @@ public class sale {
             Boolean isSame = true;
 
             for(String key : wish.keySet()){
-                if(wish.get(key) != sale.get(key)){
+                if(wish.get(key).equals(sale.get(key))){
                     isSame = false;
                     break;
                 }
