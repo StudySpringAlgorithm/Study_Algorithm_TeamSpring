@@ -90,11 +90,11 @@
 | 33회차(2023.12.21)  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839), [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)            | 문정현 |
 | 34회차(2023.12.22)  | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512), [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)            | 최　혁 |
 | 35회차(2023.12.27)  | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162), []()            | 창다은 | 
-| 36회차(2023.12.28)  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163), []()            | 문정현 |
-| 37회차(2023.12.29)  | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694), []()            | 최　혁👈 |
-| 38회차(2024.01.02)  | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164), []()            | 창다은 |
-| 39회차(2024.01.03)  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021), []()            | 문정현 |
-| 40회차(2024.01.04)  | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895), []()            | 최　혁 |
+| 36회차(2023.01.02)  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163), []()            | 문정현👈 |
+| 37회차(2023.01.03)  | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694), []()            | 최　혁 |
+| 38회차(2024.01.04)  | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164), []()            | 창다은 |
+| 39회차(2024.01.05)  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021), []()            | 문정현 |
+| 40회차(2024.01.08)  | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895), []()            | 최　혁 |
 
 
 
